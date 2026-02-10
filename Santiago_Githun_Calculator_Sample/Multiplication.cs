@@ -11,7 +11,7 @@ namespace Santiago_Githun_Calculator_Sample
     {
        public double Multiply(double num1, double num2) // return type is double, method name is Multiply, and it takes two double parameters num1 and num2
         {
-            return num1 * num2; // The method multiplies num1 and num2 and returns the result as a double.          
+            return num1 * num2; // The method multiplies num1 and num2 and returns the result as a double.         
         }
     }
 }
